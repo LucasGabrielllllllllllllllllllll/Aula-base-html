@@ -1,0 +1,2 @@
+git config --global user.name LucasGabrielllllllllllllllllllll
+git config --global user.email lucas.gah2000@gmail.com
